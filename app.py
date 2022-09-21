@@ -1,4 +1,4 @@
-import app
+from ap import app
 
 if __name__ == '__main__':
    app.run()
